@@ -1,7 +1,5 @@
 # python-week-2022
 
-Template Para a Python Week 2022 - 25 a 29 de Abril na Linux Tips
-
 ## Instruções
 
 Este repositório é um template de um projeto Python mínimo.  
