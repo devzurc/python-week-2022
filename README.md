@@ -6,6 +6,7 @@ Este repositório é um template de um projeto Python mínimo.
 O programa se chama `beerlog` e está organizado com pastas
 e módulos, porém a maioria dos arquivos encontra-se vazio.
 
+
 A partir deste template você poderá acompanhar as lives  
 da Python week e programar junto com o Bruno e o Jeferson.
 
