@@ -1,7 +1,6 @@
 # python-week-2022
 
 ## Instruções
-
 Este repositório é um template de um projeto Python mínimo.  
 O programa se chama `beerlog` e está organizado com pastas
 e módulos, porém a maioria dos arquivos encontra-se vazio.
@@ -11,14 +10,12 @@ A partir deste template você poderá acompanhar as lives
 da Python week e programar junto com o Bruno e o Jeferson.
 
 ## Obtendo seu repositório
-
 01. Faça login no github (cadastre-se gratuitamente caso ainda não tenha uma conta)
 00. Crie um **fork** (cópia) deste repositório clicando em [fork](https://github.com/rochacbruno/python-week-2022/fork)
 00. O seu repositório estará em https:// github.com / SEUNOME / python-week-2022
 00. Copie a URL do seu repositório (você vai precisar depois)
 
 ## Preparando o ambiente
-
 > **OBS**: substitua `SEUNOME` pelo seu nome de usuário do github.
 
 - Você pode rodar localmente em seu computador desde que tenha o Python 3.8+
