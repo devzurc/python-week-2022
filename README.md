@@ -14,6 +14,7 @@ da Python week e programar junto com o Bruno e o Jeferson.
 00. O seu repositório estará em https:// github.com / SEUNOME / python-week-2022
 00. Copie a URL do seu repositório (você vai precisar depois)
 
+
 ## Preparando o ambiente
 > **OBS**: substitua `SEUNOME` pelo seu nome de usuário do github.
 
