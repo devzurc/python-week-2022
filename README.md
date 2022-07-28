@@ -8,6 +8,7 @@ e módulos, porém a maioria dos arquivos encontra-se vazio.
 A partir deste template você poderá acompanhar as lives  
 da Python week e programar junto com o Bruno e o Jeferson.
 
+
 ## Obtendo seu repositório
 01. Faça login no github (cadastre-se gratuitamente caso ainda não tenha uma conta)
 00. Crie um **fork** (cópia) deste repositório clicando em [fork](https://github.com/rochacbruno/python-week-2022/fork)
