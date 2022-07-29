@@ -47,7 +47,6 @@ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poet
 ```bash
 pip install --user poetry
 ```
-
 > No replit.com o poetry já está disponível e no gitpod será instalado assim que o ambiente iniciar.
 
 ## Instalando o ambiente
