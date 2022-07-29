@@ -91,7 +91,6 @@ poetry shell
 ```
 
 Ou execute `source start_poetry` que é um script que automatiza os comandos acima.
-
 ### Autocomplete não funciona?
 
 Após ativar o poetry digite no terminal
